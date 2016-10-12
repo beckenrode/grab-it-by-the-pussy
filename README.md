@@ -13,6 +13,7 @@ And of course this plugin is open source with a [public repository](https://gith
  on GitHub.
 
 ### Installation
+[<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png">](https://chrome.google.com/webstore/detail/grab-it-by-the-pussy/onbfgflnjdebegibdagbabplamhnfgag)
 
  - Visit chrome://extensions in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox:  The menu's icon is three horizontal bars. and select Extensions under the Tools menu to get to the same place).
  - Ensure that the Developer mode checkbox in the top right-hand corner is checked.
@@ -21,7 +22,7 @@ And of course this plugin is open source with a [public repository](https://gith
 
 ### Usage
 
- - Visit any shopping site(Amazon, etc..) and the 'Add to Cart' button will automatically be replaced with a 'Grab it by the Pussy' button.
+ - Visit any shopping site(Amazon, etc..) and the 'Grab it by the Pussy' button will automatically be replaced with a 'Grab it by the Pussy' button.
 
 ### Development
 
