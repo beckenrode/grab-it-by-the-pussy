@@ -21,7 +21,7 @@ And of course this plugin is open source with a [public repository](https://gith
 
 ### Usage
 
- - Visit any shopping site(Amazon, etc..) and the 'Add to Cart' button will automatically be replaced.
+ - Visit any shopping site(Amazon, etc..) and the 'Grab it by the Pussy' button will automatically be replaced.
 
 ### Development
 
