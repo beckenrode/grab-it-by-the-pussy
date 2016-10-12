@@ -1,0 +1,13 @@
+{
+  "appName": {
+    "message": "Grab It By The Pussy",
+    "description": "Application Name"
+  },
+  "appDesc": {
+    "message": "Grab It By The Pussy enhances your shopping experience by replacing the 'Add to Cart' button with a 'Grab it by the Pussy' button.", 
+    "description":"Application Description"
+  },
+  "l10nGIBTP": {
+    "message": "Grab it by the Pussy"
+  }
+}
