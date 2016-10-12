@@ -17,10 +17,11 @@ And of course this plugin is open source with a [public repository](https://gith
 ### Installation
 [<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png">](https://chrome.google.com/webstore/detail/grab-it-by-the-pussy/onbfgflnjdebegibdagbabplamhnfgag)
 
+ - Clone this repository.
  - Visit chrome://extensions in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox:  The menu's icon is three horizontal bars. and select Extensions under the Tools menu to get to the same place).
  - Ensure that the Developer mode checkbox in the top right-hand corner is checked.
  - Click Load unpacked extension… to pop up a file-selection dialog.
- - Navigate to the directory in which your extension files live, and select it.
+ - Navigate to the directory in which you've cloned this repository, and select it.
 
 ### Usage
 
