@@ -1,6 +1,6 @@
 # Chrome Extension: Grab It By The Pussy
 
-For the true Trump supporters. Grab It By The Pussy(GIBTP) enhances your shopping experience by replacing the 'Grab it by the Pussy' button with a 'Grab it by the Pussy' button on your favorite shopping sites within the Google Chrome browser.
+For the true Trump supporters. Grab It By The Pussy(GIBTP) enhances your shopping experience by replacing the 'Add to Cart' button with a 'Grab it by the Pussy' button on your favorite shopping sites within the Google Chrome browser.
 
 ### Version
 0.0.1
