@@ -2,6 +2,8 @@
 
 For the true Trump supporters. Grab It By The Pussy(GIBTP) enhances your shopping experience by replacing the 'Add to Cart' button with a 'Grab it by the Pussy' button on your favorite shopping sites within the Google Chrome browser.
 
+![Alt text](assets/screenshot1.png?raw=true "Grab it by the Pussy")
+
 ### Version
 0.0.1
 
@@ -22,7 +24,7 @@ And of course this plugin is open source with a [public repository](https://gith
 
 ### Usage
 
- - Visit any shopping site(Amazon, etc..) and the 'Grab it by the Pussy' button will automatically be replaced with a 'Grab it by the Pussy' button.
+ - Visit any shopping site(Amazon, etc..) and the 'Add to Cart' button will automatically be replaced with a 'Grab it by the Pussy' button.
 
 ### Development
 
